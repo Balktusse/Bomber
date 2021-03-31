@@ -1,2 +1,15 @@
 # Bomber
-Message and call bombing tool
+# Installation and Usage:
+```
+cd bomber
+
+pip install requirements.txt
+
+sudo chmod +x bomber.sh
+
+./bomber.sh
+```
+
+
+
+
