@@ -8,8 +8,9 @@ pip install requirements.txt
 sudo chmod +x bomber.sh
 
 ./bomber.sh
+
 ```
 
-
+Works for all platforms
 
 
